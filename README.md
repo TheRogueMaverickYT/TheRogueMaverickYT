@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Sean 👋
 
-<!--
-**TheRogueMaverickYT/TheRogueMaverickYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer  
+💻 Web Development Student  
+🛠 Unity | Godot | C# | HTML | CSS | Git  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer focused on building games and interactive experiences.  
+Currently working on projects involving Unity and exploring Godot.
+
+I believe in clean code, creative design, and learning by building.
+
+---
+
+## 🔥 Current Projects
+
+- Smash or Crash Racing
+- Experimental prototypes in Godot
+- Web development coursework
+
+---
+
+## 🧠 What I'm Learning
+
+- Git workflows (branches, PRs, issues)
+- Collaborative development practices
+- Clean project structure & documentation
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn link if you want]
